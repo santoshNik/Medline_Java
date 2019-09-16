@@ -1,0 +1,52 @@
+git clone javateam
+
+git checkout DevelopmentTest
+
+git status
+
+
+ git add Test.txt
+
+
+ git status
+
+
+git commit -m "abcd"
+
+git log -1
+
+
+git push --set-upstream origin DevelopmentTest
+
+ git branch -r
+
+ git fetch origin
+
+ git branch -r
+
+git checkout skjain
+
+git merge DevelopmentTest
+
+esc:wq!
+
+git log -3
+
+gitk -----> Visual option in gitbash
+
+
+cd .. -----> to get into the back folder
+
+vi filename   ------> to view the file
+
+ echo "hello" >> Test.txt   ----> to append content to the file
+
+ git branch -D pawan  -----> Delete the Existing remote Branch
+
+git checkout -f DevelopmentTest   -----> Forcefully checkout
+
+git init sant     -----> For creating directory
+
+
+
+
